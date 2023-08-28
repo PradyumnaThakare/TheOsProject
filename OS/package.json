@@ -1,0 +1,19 @@
+{
+  "name": "p",
+  "version": "2.0.0",
+  "description": "Os environment for browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PradyumnaThakare/TheOsProject.git"
+  },
+  "author": "Prad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PradyumnaThakare/TheOsProject/issues"
+  },
+  "homepage": "https://github.com/PradyumnaThakare/TheOsProject#readme"
+}
