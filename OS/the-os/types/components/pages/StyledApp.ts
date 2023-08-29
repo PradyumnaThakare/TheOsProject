@@ -6,7 +6,6 @@ export type Theme={
   
   export type StyledAppProps={
     children: React.ReactNode; // Ensure that children property is defined
-
     theme?:Theme;
 
   };
